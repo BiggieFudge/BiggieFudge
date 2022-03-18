@@ -18,5 +18,5 @@ In this github you can check out all the cool project i did and still making at 
 
 
 you can reach me at: eytanrhl@gmail.com
-![](https://github.com/BiggieFudge/Github-stat/blob/master/generated/overview.svg)
-![](https://github.com/BiggieFudge/Github-stat/blob/master/generated/languages.svg)
+
+![](https://github.com/BiggieFudge/Github-stat/blob/master/generated/overview.svg)![](https://github.com/BiggieFudge/Github-stat/blob/master/generated/languages.svg)
