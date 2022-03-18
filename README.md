@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 
 I'm Eytan Rahlin, Computer Science Student.
 
+In this github you can check out all the cool project i did and still making at HIT (Holon Institute of Technology) , and also my personall projects i make just for fun.
 
 
 
-- 📫 How to reach me: eytanrhl@gmail.com
+you can reach me at: eytanrhl@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biggiefudge)](https://github.com/anuraghazra/github-readme-stats)
