@@ -20,3 +20,4 @@ In this github you can check out all the cool project i did and still making at 
 you can reach me at: eytanrhl@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biggiefudge)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biggiefudge)](https://github.com/anuraghazra/github-readme-stats)
