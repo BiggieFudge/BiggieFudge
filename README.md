@@ -19,4 +19,5 @@ In this github you can check out all the cool project i did and still making at 
 
 you can reach me at: eytanrhl@gmail.com
 
-![](https://github.com/BiggieFudge/github-stats/blob/master/generated/overview.svg)![](https://github.com/BiggieFudge/github-stats/blob/master/generated/languages.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Biggiefudge&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,jupyter notebook, scss)](https://github.com/anuraghazra/github-readme-stats)
